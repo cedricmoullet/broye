@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Schema name="Communes de la Broye" id="Communes_Broye">
+<Schema name="Communes_Broye" id="Communes_Broye">
 	<SimpleField name="UUID" type="string"></SimpleField>
 	<SimpleField name="DATUM_AEND" type="string"></SimpleField>
 	<SimpleField name="DATUM_ERST" type="string"></SimpleField>
@@ -25,7 +25,7 @@
 	<SimpleField name="GEM_FLAECH" type="float"></SimpleField>
 	<SimpleField name="SHN" type="string"></SimpleField>
 </Schema>
-<Folder><name>Communes_Broye</name>
+<Folder><name>Communes de la Broye</name>
   <Placemark>
 	<name>Corcelles-le-Jorat</name>
 	<Style><LineStyle><color>FF000000</color><width>2.83464</width></LineStyle><PolyStyle><fill>1</fill><color>aa0000cc</color></PolyStyle></Style>
